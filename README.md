@@ -22,7 +22,6 @@ pip install auto-py-to-exe
 pip install -r requirements.txt
 cd comic_text_detector
 pip install -r requirements.txt
-auto-py-to-exe
 ```
 
 Directory structure for models should look like this
