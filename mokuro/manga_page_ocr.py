@@ -13,7 +13,7 @@ from mokuro.utils import imread
 
 class MangaPageOcr:
     def __init__(self,
-                 pretrained_model_name_or_path='kha-white/manga-ocr-base',
+                 pretrained_model_name_or_path='./models/manga-ocr-base',
                  force_cpu=False,
                  detector_input_size=1024,
                  text_height=64,

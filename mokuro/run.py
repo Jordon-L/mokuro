@@ -9,7 +9,7 @@ from mokuro import OverlayGenerator
 
 def run(*paths,
         parent_dir=None,
-        pretrained_model_name_or_path='kha-white/manga-ocr-base',
+        pretrained_model_name_or_path='./models/manga-ocr-base',
         force_cpu=False,
         as_one_file=True,
         disable_confirmation=False,

@@ -43,7 +43,7 @@ ABOUT_DEMO = ABOUT + """
 
 class OverlayGenerator:
     def __init__(self,
-                 pretrained_model_name_or_path='kha-white/manga-ocr-base',
+                 pretrained_model_name_or_path='./models/manga-ocr-base',
                  force_cpu=False,
                  **kwargs):
         self.pretrained_model_name_or_path = pretrained_model_name_or_path
