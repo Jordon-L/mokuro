@@ -24,3 +24,10 @@ cd comic_text_detector
 pip install -r requirements.txt
 auto-py-to-exe
 ```
+
+Directory structure for models should look like this
+
+```commandline
+models/
+├─manga-ocr-base
+```
