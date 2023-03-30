@@ -1,0 +1,157 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/YourPath/mokuro/mokuro/run.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "name",
+   "value": "mokuro"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "pathex",
+   "value": "C:/YourPath/.venv/Lib/site-packages"
+  },
+  {
+   "optionDest": "collect_data",
+   "value": "torch"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "torch"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "tqdm"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "regex"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "requests"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "packaging"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "filelock"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "numpy"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "tokenizers"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/YourPath/mokuro/mokuro/assets;mokuro/assets/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/YourPath/mokuro/models;models/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "unidic_lite"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/YourPath/mokuro/mokuro/script.js;mokuro/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/YourPath/mokuro/mokuro/styles.css;mokuro/"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "unidic_lite"
+  },
+  {
+   "optionDest": "collect_data",
+   "value": "unidic_lite"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "manga_ocr"
+  },
+  {
+   "optionDest": "collect_data",
+   "value": "manga_ocr"
+  },
+  {
+   "optionDest": "copy_metadata",
+   "value": "manga_ocr"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
