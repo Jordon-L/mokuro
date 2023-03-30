@@ -132,3 +132,6 @@ dmypy.json
 
 # models
 models
+
+#auto-py-to-exe
+output
