@@ -7,13 +7,15 @@ This is a modified verison of Mokuro for Mokuro Desktop.
 Please go [here](https://github.com/kha-white/mokuro) for the original.
 
 # Compile to EXE
-1. create a virtual python environment
-2. get Auto PY to EXE
-3. install all packges via pip
-4. download manga-ocr model from hugging face and put in folder called models
-4. run Auto PY to EXE and under settings import config file.
-5. modify your script location and additional files to match your directory.
-6. Click Convert .PY to .EXE 
+1. Create a virtual python environment
+2. Get Auto PY to EXE
+3. Install all packges via pip
+4. Download [manga-ocr model](https://huggingface.co/kha-white/manga-ocr-base) from hugging face and put in folder called models.
+5. Run Auto PY to EXE and under settings import config file.
+6. Modify script location
+7. Under Additional Files, modify to match your paths.
+8. Under Advance, modify --paths
+9. Click Convert .PY to .EXE
 
 ```commandline
 pip install auto-py-to-exe
