@@ -8,8 +8,8 @@ Please go [here](https://github.com/kha-white/mokuro) for the original.
 
 # Compile to EXE
 1. Create a virtual python environment
-2. Get Auto PY to EXE
-3. Install all packges via pip
+2. Get [Auto PY to EXE](https://pypi.org/project/auto-py-to-exe/)
+3. Install all packages via pip
 4. Download [manga-ocr model](https://huggingface.co/kha-white/manga-ocr-base) from hugging face and put in folder called models.
 5. Run Auto PY to EXE and under settings import config file.
 6. Modify script location
