@@ -2,7 +2,7 @@
 
 Read Japanese manga with selectable text inside a browser.
 
-This is a modified verison of Mokuro for Mokuro Desktop.
+This is a modified verison of Mokuro for [Mokuro Desktop](https://github.com/Jordon-L/mokuro-desktop).
 
 Please go [here](https://github.com/kha-white/mokuro) for the original.
 
